@@ -1,0 +1,32 @@
+{
+  "shoes": [
+    {
+      "id": 0,
+      "src": "shoes1.png",
+      "title": "Discovery Classic",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 40000
+    },
+    {
+      "id": 1,
+      "src": "shoes2.png",
+      "title": "Discovery Hike",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 30000
+    },
+    {
+      "id": 2,
+      "src": "shoes3.png",
+      "title": "Discovery Row",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 20000
+    },
+    {
+      "id": 3,
+      "src": "shoes4.png",
+      "title": "Discovery SE",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "price": 10000
+    }
+  ]
+}
